@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 # Frontend Mentor - Bento grid solution
 
 Esta é uma solução para o [desafio Bento grid no Frontend Mentor](https://www.frontendmentor.io/challenges/bento-grid-RMydElrlOj). Os desafios do Frontend Mentor ajudam você a melhorar suas habilidades de codificação através da construção de projetos realistas. 
@@ -108,3 +109,19 @@ Use esta seção para delinear áreas nas quais você deseja continuar focando e
 É aqui que você pode dar uma gorjeta a qualquer pessoa que o ajudou neste projeto. Talvez você tenha trabalhado em equipe ou se inspirado na solução de outra pessoa. Este é o lugar perfeito para dar-lhes algum crédito.
 
 **Nota: Exclua esta nota e edite o conteúdo desta seção conforme necessário. Se você completou este desafio sozinho, sinta-se à vontade para excluir esta seção completamente.**
+=======
+# Frontend-Mentor-Bento-Grid-Main
+ #Frontend Mentor - Bento Grid Main
+
+Seu desafio é construir esta grade bento e fazer com que pareça o mais próximo possível do design.
+
+Você pode usar todas as ferramentas que deseja ajudá -lo a concluir o desafio. Então, se você tiver algo que gostaria de praticar, fique à vontade para tentar.
+
+### Seus usuários devem poder:
+
+- Veja o layout ideal para a interface, dependendo do tamanho da tela do dispositivo
+
+### comportamento esperado
+
+Os dois componentes na coluna esquerda na área de trabalho são colocados na parte inferior no celular. Esta é uma boa oportunidade para praticar suas habilidades de colocação de grade CSS.
+>>>>>>> Stashed changes
